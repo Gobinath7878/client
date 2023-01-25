@@ -1,0 +1,14 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer h6{
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
